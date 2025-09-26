@@ -13,7 +13,7 @@ The goal of the website is to provide information about the bakery, its products
 - Responsive design using CSS
 
 ## Folder Structure
-Website Poe PART_1
+Website Poe PART_2
 │
 ├── index.html
 ├── about.html
